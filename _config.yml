@@ -1,0 +1,28 @@
+name: Colin Davis
+favicon: null
+layout_spectrum: 0.7396277533844113
+typography_spectrum: 0.6800392519216985
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2967808358371258
+  lightness: 0.917527154320851
+  saturation: 0.07983835670165718
+  rhythmicContrast: 0.6591691332869232
+purpose: []
